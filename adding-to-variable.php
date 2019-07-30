@@ -8,4 +8,9 @@ $temp = $temp . 'c in temperature.';
 
 echo "$temp";
 
+echo '<br>';
+
+// Dumps the contents of the variable to the screen for analysis
+var_dump($temp);
+
 ?>
