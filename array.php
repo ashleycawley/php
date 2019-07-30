@@ -1,7 +1,7 @@
 <?php
 
 // An array can be saved into a variable on one line like this:
-$names = array('ashley','bob','tim');
+$names = array('ashley','bob','tim','ryan');
 
 // An array can also be spread across multiple lines like this:
 $ages = array(
