@@ -10,6 +10,14 @@ function hey() {
 // Using the function:
 hey();
 
+// Practicing passing a parameter into a function
+// Setting a name:
+$name = 'Ashley';
+
+function say_hi( $name ) {
+    echo "Hi there $name how are you doing?";
+}
+
 echo "<br><br>";
 
 echo "sha1 of Hello world! :";
